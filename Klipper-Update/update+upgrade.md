@@ -538,7 +538,7 @@ After installing Spoolman, the tool can be accessed via the IP of your printer a
 + 1x <a href="https://www.amazon.de/s?k=usb+kabel&crid=KCV1Z6W6QX2H&sprefix=USB+K%2Caps%2C116&ref=nb_sb_ss_ts-doa-p_1_5" target="_blank" rel="noopener noreferrer">USB-Cable</a> - depending on the type of USB connection of the display - also measure the installation length here.
 + 1x <a href="https://www.amazon.de/s?k=micro+sd+karte&crid=2700GPKRVNBPD&sprefix=Micro+Sd%2Caps%2C128&ref=nb_sb_ss_ts-doa-p_1_8" target="_blank" rel="noopener noreferrer">MicroSD-Card</a>
 + 1x <a href="https://www.amazon.de/s?k=Inbus&__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=14CFHDZSQ958R&sprefix=inbus%2Caps%2C107&ref=nb_sb_noss_1" target="_blank" rel="noopener noreferrer">Allen Key Set</a>
-
++ 1x (Optional) <a href="https://www.printables.com/model/1191686-qidi-x-plus3-replacement-screen-and-pi-mount" target="_blank" rel="noopener noreferrer">Printable Screen and Raspbery Pi mount</a>
 
 ### Software für Display:
 
@@ -677,6 +677,7 @@ Depending on the display you are using, you will need to construct a bracket to 
 
 If you want to use my display. The package contains the STEP of the clamps for attaching the display. For the two upper mounting points, these need to be modified in size.
 As I only have the lower mounting points left, I saved myself the trouble and used some double-sided adhesive tape to hold them in place.
+Alternately you can print a combination screen and Pi mounting bracket designed by 4o66; the files can be found on  <a href="https://www.printables.com/model/1191686-qidi-x-plus3-replacement-screen-and-pi-mount" target="_blank" rel="noopener noreferrer">printables</a>. If using a BTT Pi, check the remixes for a mount specifically for that model.
 
 
 ## **Laying cables**
